@@ -1,0 +1,6 @@
+Host ubuntu-lab
+    HostName 127.0.0.1
+    Port 2222
+    User devops
+    IdentityFile ~/.ssh/ubuntu_lab_key
+    PubkeyAuthentication yes
